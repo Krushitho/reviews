@@ -17,4 +17,5 @@ Get certified reviews
 Get reviews having images
 Users review moderation status updation and notifying users based on the state.
 
-img.png
+![image](https://user-images.githubusercontent.com/109871363/183125447-346df474-f6db-4d73-84de-ac33a45d11bc.png)
+
